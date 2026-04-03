@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
+import "./gobal.css";
 
 import { BrowserRouter as Router } from "react-router-dom";
 import AppRoutes from "./AppRoutes";
