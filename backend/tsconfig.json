@@ -36,6 +36,7 @@
     "strict": true,
     "jsx": "react-jsx",
     "allowImportingTsExtensions": true,
+    "rewriteRelativeImportExtensions": true,
     "verbatimModuleSyntax": true,
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
